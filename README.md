@@ -5,8 +5,8 @@ This project aims to develop an e-commerce website builder with blogging functio
 
 ## Architecture
 1. **Presentation Layer (Front-End)**: React app hosted on Azure Static Web Apps.
-2. **Business Logic Layer (Back-End)**: Django app hosted on Azure Functions.
-3. **Data Layer**: Azure Cosmos DB.
+2. **Business Logic Layer (Back-End)**: NopCommerce & .NET Core hosted on Azure Functions.
+3. **Data Layer**: MS SQL 
 4. **Static Assets**: Azure Blob Storage.
 5. **Content Delivery**: Azure CDN.
 6. **Content Management**: Strapi hosted on Azure App Service.
