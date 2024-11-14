@@ -1,10 +1,10 @@
-# Project Setup Notes
+# Project Setup Working Document 
 
 ## Project Overview
 This project aims to develop an e-commerce website builder with blogging functionality for small businesses. It leverages React for the front-end and Django for the back-end, with payment integration using Stripe.
 
 ## Architecture
-1. **Presentation Layer (Front-End)**: React app hosted on Azure Static Web Apps.
+1. **Presentation Layer (Front-End)**: React app (hosted on Azure Static).
 2. **Business Logic Layer (Back-End)**: NopCommerce & .NET Core hosted on Azure Functions.
 3. **Data Layer**: MS SQL 
 4. **Static Assets**: Azure Blob Storage.
