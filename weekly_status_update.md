@@ -1,5 +1,10 @@
 # Weekly Status Update
 
+**Date**: 11/13/2024 - 11/14/2024
+
+- **Lauren**: Update backend and documentation to be Flask and removing Nop Commerce
+- **Arvind**: Joined Github Organization for project
+- **Team Meeting**: Discussed project with 2 new contributors 
 
 **Date**: 11/13/2024 - 11/14/2024
 

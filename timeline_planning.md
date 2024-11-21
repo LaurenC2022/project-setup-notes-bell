@@ -1,10 +1,8 @@
-Here's a breakdown of the project into key steps that you can use to create a Gantt chart for your portfolio project using Azure hosting, .NET Core, React, and NopCommerce. This breakdown includes the main phases, tasks, and estimated durations for each task.
-
 ### **Project Breakdown for Gantt Chart**
 
 #### **1. Planning Phase (1 Week)**
    - **Define Project Goals and Requirements** (1 day)
-   - **Research and Select NopCommerce Plugins/Extensions** (2 days)
+   - **Research and Select Flask Plugins/Extensions** (2 days)
    - **Design Wireframes/UI Mockups** (2 days)
    - **Set Up Project Repository** (1 day)
    - **Document Project Plan and Timeline** (1 day)
@@ -13,16 +11,16 @@ Here's a breakdown of the project into key steps that you can use to create a Ga
    - **Set Up Azure Account and Resources** (1 day)
    - **Set Up Development Environment for .NET Core** (1 day)
    - **Set Up Development Environment for React** (1 day)
-   - **Install and Configure NopCommerce Locally** (2 days)
+   - **Install and Configure Flask Locally** (2 days)
    - **Test Local Environment Setup** (1 day)
 
-#### **3. Backend Development (.NET Core & NopCommerce) (3 Weeks)**
+#### **3. Backend Development (.NET Core & Flask) (3 Weeks)**
    - **Create REST API Structure with .NET Core** (1 week)
       - Design API endpoints
       - Implement API authentication and authorization
-   - **Integrate NopCommerce** (1 week)
-      - Customize NopCommerce (themes, plugins, etc.)
-      - Implement custom APIs for NopCommerce features
+   - **Integrate Flask** (1 week)
+      - Customize Flask (themes, plugins, etc.)
+      - Implement custom APIs for Flask features
    - **Set Up Database with Azure SQL** (1 week)
       - Design database schema
       - Implement database migrations and seeding
