@@ -1,5 +1,9 @@
 # Weekly Status Update
 
+**Date**: 11/27/2024 - 11/28/2024
+-**Lauren**: Added usage information to backend 
+-**James**: On board to repository and trello 
+
 **Date**: 11/13/2024 - 11/14/2024
 
 - **Lauren**: Update backend and documentation to be Flask and removing Nop Commerce
